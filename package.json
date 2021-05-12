@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tailwind build tailwind.css -o tailwind.output.css"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.1.2"
+  }
+}
